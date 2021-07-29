@@ -2,7 +2,7 @@
 
 > A dark theme for [Side Notes](https://www.apptorium.com/sidenotes/).
 
-![Screenshot](./screenshot.png)
+<img width="409" alt="CleanShot 29 07 2021 - 10h40m52s@2x" src="https://user-images.githubusercontent.com/7749461/127502845-8396b40e-e985-4d7d-8dd8-552d79a2fba2.png">
 
 ## Install
 
