@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Side Notes](https://www.apptorium.com/sidenotes/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Side Notes](https://www.apptorium.com/sidenotes/).
 
 ![Screenshot](./screenshot.png)
 
