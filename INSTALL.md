@@ -2,7 +2,7 @@
 
 #### Install manually
 
-1. Download the **Dracula-SideNotes.sntheme** file
+1. Download the [**Dracula-SideNotes.sntheme**](./Dracula-SideNotes.sntheme) file
 2. Open Side Notes
 3. Access Preferences of the app with keyboard shortcut "command + comma" (⌘,)
 4. Click **Appearance**
