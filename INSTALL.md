@@ -1,21 +1,27 @@
-# [Side Notes](https://www.apptorium.com/sidenotes/)
+### [Side Notes](https://www.apptorium.com/sidenotes/)
+
+#### Install using Git
+
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+    $ git clone https://github.com/dracula/sidenotes.git
 
 #### Install manually
 
-1. Download the [**Dracula-SideNotes.sntheme**](./Dracula-SideNotes.sntheme) file
-2. Open Side Notes
-3. Access Preferences of the app with keyboard shortcut "command + comma" (⌘,)
-4. Click **Appearance**
-5. <img width="698" alt="CleanShot 29 07 2021 - 10h57m34s@2x" src="https://user-images.githubusercontent.com/7749461/127505049-5246f544-5457-4850-ad4c-0741692c5615.png">
-6. Then **Manage** and **Add**
-7. ![CleanShot 29 07 2021 - 11h00m38s@2x](https://user-images.githubusercontent.com/7749461/127505578-33394874-2516-45c9-8ad3-43ef05dbf98f.png)
-8. Select the **Dracula-SideNotes.sntheme** and after this, double click to apply
-9. Close the window
-10. Enjoy your Dracula Site Notes
+Download using the [GitHub .zip download](https://github.com/dracula/sidenotes/archive/master.zip) option and unzip them.
 
+#### Activating the theme
 
+1) Open SideNotes
+2) Access Preferences of the app with keyboard shortcut "command + comma" (⌘,)
+3) Click **Appearance**
 
+![SideNotes Appearance](https://raw.githubusercontent.com/dracula/sidenotes/master/images/install-1.png)
 
-## License
+4) Then **Manage** and **Add**
 
-[MIT License](./LICENSE)
+![SideNotes Theme](https://raw.githubusercontent.com/dracula/sidenotes/master/images/install-1.png)
+
+5) Select the **Dracula-SideNotes.sntheme** and after this, double click to apply
+6) Close the window
+7) Enjoy your Dracula Site Notes
