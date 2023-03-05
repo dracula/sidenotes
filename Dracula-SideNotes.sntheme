@@ -24,6 +24,9 @@
                     "textColor": "#f8f8f2",
                     "enableVisualEffects": false,
                     "linkColor": "#8be9fd",
+                    "markdownMarkup": {
+                        "textColor": "#44475a"
+                    },
                     "quote": {
                         "textColor": "#ff5555"
                     },
@@ -38,33 +41,58 @@
                     },
                     "header": {
                         "textColor": "#f8f8f2"
+                    },
+                    "checkMark": {
+                        "backgroundColor": "#24252f",
+                        "checkMarkColor": "#50fa7b",
+                        "borderColor": "#44475a",
+                        "doneBackgroundColor": "#6272a4",
+                        "doneBorderColor": "#24252f"
                     }
                 },
                 "colors": [
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    },
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    },
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    },
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    },
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    },
-                    {
-                        "backgroundColor": "#282a36",
-                        "textColor": "#f8f8f2"
-                    }
+                     {
+                        "_comment": "#2 Cyan",
+                        "barColor": "#8be9fd",
+                        "header": {
+                            "textColor": "#8be9fd"
+                        }
+                     },
+                     {
+                        "_comment": "#3 Green",
+                        "barColor": "#50fa7b",
+                        "header": {
+                            "textColor": "#50fa7b"
+                        }
+                     },
+                     {
+                        "_comment": "#4 Orange",
+                        "barColor": "#ffb86c",
+                        "header": {
+                            "textColor": "#ffb86c"
+                        }
+                     },
+                     {
+                        "_comment": "#5 Pink",
+                        "barColor": "#ff79c6",
+                        "header": {
+                            "textColor": "#ff79c6"
+                        }
+                     },
+                     {
+                        "_comment": "#6 Purple",
+                        "barColor": "#bd93f9",
+                        "header": {
+                            "textColor": "#bd93f9"
+                        }
+                     },
+                     {
+                        "_comment": "#7 Red",
+                        "barColor": "#ff5555",
+                        "header": {
+                            "textColor": "#ff5555"
+                        }
+                     }
                 ]
             }
         },
